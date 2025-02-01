@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "voice-streaming-449616",
+  "private_key_id": "9fe05244c77207ec872054b5f300175a8c4c62ae",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCiT3zHzhIZKNA9\nwO6L06ZsP/0QfT0jiZD2wb1D41nWpeC9Gei4vO7yyhurNWRvqlplhfrR6YFFzpXt\n6DayE6w2La7i2n9EOxgL1+4hgKyHWnrOGBhBvYc5p3LSyZKHlep9hYJeLqmvZZhQ\n6dwN801qn+H3j26oUOxjn1OiJhlK+cT4zTB9P5SLdbax8bempr2gwHItDHUxbo7s\n0oUZ+9Z7QK47PRiXN6xTLUjjSfLsScl5xAC8MkeCxEEGiFQ7e8bf0/cmzK6FeBis\ntqr38GK/sxzYA8PgtEiBM2qfCMFjbOwuoKwM2AkIa3KosDpxx0Hi3zBgoMQwJdvf\nTsaJjYn3AgMBAAECggEAHwQYgKfwzmz9qidRjlfCECKELd/4zG8vy++Gxs/NrZZi\nJVCrp423DZ8wfV2FFU+U2ZyqKu23ncrV3LIIravTt0CwkDoXosa2GCFJqI5Jqc3Q\n9Mwm6n0Yt5w3dW8+eHld52GZYX0CQPmliyS9P880BoGJ8UAv8asRGRJrrWshXzGg\njIxw2qGi3n+n0lD/ntrmxdI/463VeL7L0tNf8fmZ7TsBddX1DrkeQ/EkvEr09fHY\nqOGBYl8/fPFj74jR8pALnpWd5njepEhTDf+4nz8VuXcipPh+vSYfs3p6L2oTZpQu\nwe/Utct+EkJf3gsfX+EGG0Zp4pPeBBa3A+JLRRZuiQKBgQDTbfx9UaUnrM7T5s/6\nX62iEZAWwNnhjyBpyFL5pBDISjkeJaP1NqGmh9pFuJdGSasmX9tTvgyJ2KRjTMuC\n3J+lRKc2+zgtVf/eF2T19ECXeyFH5G9eYYRuhKpjEfYNPFUTVOgS9gvDqW5m9nGf\nH6JgJB4JUbalKtmkB/SblUf0SQKBgQDEhrzC2PfnkUexdVT81+IGyUCyIyKESn42\nR8Qe5gTQVrmlWMqUDCtBrTSaFpRatRpREyOsx9d5FEUSfzqDcIBImIXV2MFsMvSj\numUAX3cRupomOZlzk//OgaWqL7im9FsAP8i2ks11lmq463iPbIFrzSe5n97q0vSk\n8jImeD0MPwKBgQCSn57PJbS8G/pfN50ZzAp072sWbG1tID3hPjxUxbOhwt9zibT3\nlAhsnaAAY+/8nZAkj6thmtXFLslp19L2kJviGAdCeNvPjOlhkqXAb7/vjUNaQQ/+\nyu/1WOl0xPr22NVDD8nVhG5KJZDbtKK9MEoCFGoEGnfoeRvvxlibIN6CiQKBgAkz\n+hDx0iIg9oeD5Bf3EBmbQRFWfd5OErz9/VwpD16mQQlSMCJgs4He15DDr+zTgEj9\nqXUE4r1DyrxEAvx2vzsnEVVjUiN7+2LTbrlmvw+welmB5wK3koocHiLrGy2OUdig\nJAkQtNhl09eXB01IGoNu1wZlSy4Z9OTohpqwlMNHAoGBAJOWWt4Krk/rEyL3QBhs\n9fl8ZRiQ0Kb/pWBcIwskwb91GwYwH6zal7l8B5U98Rzfau9Ng/wGNmL22EnB1AKf\nU4sraRlDsvuPtr9A1YT9mgfsTm9caqYTuAhxiVzAuKr38Yad14jT2vGFc1rekAjk\nrDU/OqW7lS+Dd2B1M5XCRYcU\n-----END PRIVATE KEY-----\n",
+  "client_email": "voice-streaming-app-service@voice-streaming-449616.iam.gserviceaccount.com",
+  "client_id": "101207478136299863468",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/voice-streaming-app-service%40voice-streaming-449616.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
